@@ -16,3 +16,12 @@ img {
   display: block;
   max-width: 100%;
 }
+
+.timer{
+  margin-top: 20px;
+  display: flex;
+  gap: 15;
+}
+button{
+  cursor: pointer;
+}
